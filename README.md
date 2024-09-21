@@ -14,7 +14,11 @@
 
 # HOW TO USE
 ```
-git clone
+git clone https://github.com/madanokr001/ShrekOsint-tools.git
 cd ShrekOsint-tools
+pip install whois
+pip install socket
+pip install requests
+pip install random
 ls
 python ShrekOsint.py
