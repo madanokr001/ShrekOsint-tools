@@ -4,7 +4,13 @@
 3. WHOIS DOMAIN
 
 # SHREK OSINT IMAGE
-![image](https://github.com/user-attachments/assets/34281c9a-ac62-42d5-957a-66a79c4bed51)
+![image](https://github.com/user-attachments/assets/2b05ef45-9d03-4b73-b876-3eb419f75e37)
+
+![image](https://github.com/user-attachments/assets/34ea1eb7-1852-4b87-ae4a-e0acdb402624)
+![image](https://github.com/user-attachments/assets/7e534e40-915d-4683-9ccd-aaab59220c60)
+![image](https://github.com/user-attachments/assets/6e3bd8bc-dfe7-4380-90d1-3b03a4486a3b)
+
+
 
 # HOW TO USE
 ```
