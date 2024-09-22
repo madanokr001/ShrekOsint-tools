@@ -2,7 +2,8 @@
 ![image](https://github.com/user-attachments/assets/9ee23c27-ec0c-46a5-8e90-a51835b08882)
 
 # SHREK OSINT IMAGE
-![image](https://github.com/user-attachments/assets/2b05ef45-9d03-4b73-b876-3eb419f75e37)
+![image](https://github.com/user-attachments/assets/d3bb9cd5-0a6e-41b4-aa27-324f214cd850)
+
 
 1. IP TRACKER ![image](https://github.com/user-attachments/assets/34ea1eb7-1852-4b87-ae4a-e0acdb402624)
 2. USER FINDER ![image](https://github.com/user-attachments/assets/7e534e40-915d-4683-9ccd-aaab59220c60)
